@@ -38,7 +38,7 @@ php artisan server
 * Sass
 
 ## Contributing
-I'm updragind the features during my free time.
+I'm updrading the features during my free time.
 
 ## License
 
