@@ -2,7 +2,7 @@ Manage your Daily Based Tasks
 
 ### Prerequisites
 ```
-Localserver (XAMPP,WAMP,MAMP, LARAGON)
+Localserver (XAMPP,WAMP,MAMP, LARAGON), nodejs
 ```
 
 ### Installing
@@ -11,6 +11,12 @@ Download/Clone the files and Extract on local Server
 ```
 ```
 Edit the .env file and import the default .sql file
+```
+```
+run composer install
+```
+```
+run npm install
 ```
 ```
 php artisan server
