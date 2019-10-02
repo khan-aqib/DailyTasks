@@ -1,5 +1,6 @@
 Manage your Daily Based Tasks
 
+!![Alt text](http://khanaqib.com/tasks.png "Screenshot")
 ### Prerequisites
 ```
 Localserver (XAMPP,WAMP,MAMP, LARAGON), nodejs
